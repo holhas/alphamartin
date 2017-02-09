@@ -1,7 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -412,9 +413,12 @@ h6,
 }
 #header5-0 .mbr-section-title {
   color: #000;
+  font-size: 48px;
 }
 #header5-0 .mbr-section-lead {
   color: #9c9a9a;
+  font-family: 'Lora', serif;
+  font-size: 32px;
 }
 #content5-2u .mbr-section-title,
 #content5-2u p {
@@ -490,9 +494,11 @@ h6,
 }
 #msg-box1-3g H3 {
   font-size: 36px;
+  color: #b8312f;
 }
 #msg-box1-3g SPAN {
   font-size: 22px;
+  color: #7c706b;
 }
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
